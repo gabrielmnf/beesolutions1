@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&family=Secular+One&display=swap');
+
+#listados{
+    color: #fff;
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 1.5em;
+    margin-left: 200px;
+}
+
+.editarproblema{
+    height: 30px;
+    width: 30px;
+}
+
+.deletarproblema{
+    height: 30px;
+    width: 30px;
+}
+
+#solucoestitulo{
+    text-align: center;
+    font-family: 'Lexend Deca', sans-serif;
+    color: white;
+    font-size:3em;
+    margin-left: 5px;
+    letter-spacing: 8px;
+    margin-bottom: 10px;
+}
+
+.botaoSolucao{
+    border-radius: 4px;
+    background-color: #1a1919;
+    border: none;
+    color: white;
+    text-align: absolute;
+    font-size: 20px;
+    width: 300px;
+    height: 35px;
+    cursor: pointer;
+    margin-left: 43%;
+    margin-top: 1%;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+#idUsuario{
+    border-radius: 4px;
+    height: 60px;
+    font-size: 20px;
+    border: none;
+    margin-bottom: 10px;
+    width: 250px;
+}
+
+#solucaoProblema{
+    border-radius: 4px;
+    font-size: 20px;
+    border: none;
+    margin-bottom: 10px;
+}
+
+#numeroProblema{
+    border-radius: 4px;
+    height: 60px;
+    font-size: 20px;
+    border: none;
+    margin-bottom: 10px;
+    width: 250px;
+}
+
+.caixaTexto{
+    margin-left: 10%;
+}

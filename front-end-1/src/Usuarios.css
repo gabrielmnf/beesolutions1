@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&family=Secular+One&display=swap');
+
+#usuariostitulo{
+    text-align: center;
+    font-family: 'Lexend Deca', sans-serif;
+    color: white;
+    font-size:3em;
+    margin-left: 5px;
+    letter-spacing: 8px;
+    margin-bottom: 10px;
+}
+
+#listados{
+    color: #fff;
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 1.5em;
+    margin-left: 200px;
+}
+
+h3{
+    font-size: 0.8em;
+}
+
+.botaoUsuario{
+    border-radius: 4px;
+    background-color: #1a1919;
+    border: none;
+    color: white;
+    text-align: absolute;
+    font-size: 20px;
+    width: 300px;
+    height: 35px;
+    cursor: pointer;
+    margin-left: 43%;
+    margin-top: 1%;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+#nomeUsuario{
+    border-radius: 4px;
+    height: 60px;
+    font-size: 20px;
+    border: none;
+    margin-bottom: 10px;
+    width: 250px;
+}
+
+#emailUsuario{
+    border-radius: 4px;
+    height: 60px;
+    font-size: 20px;
+    border: none;
+    margin-bottom: 10px;
+    width: 250px;
+}
+
+.editarusuario{
+    height: 30px;
+    width: 30px;
+}
+
+.deletarusuario{
+    height: 30px;
+    width: 30px;
+}
+
+.botaoUsuario{
+    border-radius: 4px;
+    background-color: #1a1919;
+    border: none;
+    color: white;
+    text-align: absolute;
+    font-size: 20px;
+    width: 300px;
+    height: 35px;
+    cursor: pointer;
+    margin-left: 43%;
+    margin-top: 1%;
+    font-family: 'Lexend Deca', sans-serif;
+}
